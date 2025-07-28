@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.postimg.cc/DyDhBsfB/Github-cover-photo.png" alt="Cover Photo" width="100%" />
+</p>
+
 
 <!--
 **Mubeen-Javeed/Mubeen-Javeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
