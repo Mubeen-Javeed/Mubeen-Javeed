@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Next.js**, **TypeScript**, and **API integrations**
 - 👯 I’m looking to collaborate on **open-source MERN projects**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind CSS**
-- 📫 How to reach me: **mubeenjaveeddev@gmail.com**
+- 📫 How to reach me: **mubeenjaveed630@gmail.com**
 - ⚡ Fun fact: *I love building UIs that not only work great, but look great too!*
 
 ---
