@@ -2,24 +2,26 @@
   <img src="https://i.postimg.cc/DyDhBsfB/Github-cover-photo.png" alt="Cover Photo" width="100%" />
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Mubeen Javeed</h1>
-<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
-
----
-
-- 🔭 I’m currently working on **Full-stack web applications using MongoDB, Express, React, and Node.js**
-- 🌱 I’m currently learning **Next.js**, **TypeScript**, and **API integrations**
-- 👯 I’m looking to collaborate on **open-source MERN projects**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind CSS**
-- 📫 How to reach me: **mubeenjaveed630@gmail.com**
-- ⚡ Fun fact: *I love building UIs that not only work great, but look great too!*
+<h1 align="center">Hey 👋, I'm Mubeen Javeed</h1>
+<h3 align="center">MERN Stack Developer | React.js Enthusiast | Passionate Problem Solver</h3>
 
 ---
 
-### 🛠️ Tech Stack
+🌐 **Portfolio:** [mubeen-dev.netlify.app](https://mubeen-dev.netlify.app/)
+
+💼 **Current Focus:** Full Stack Web Development with the MERN stack (MongoDB, Express.js, React.js, Node.js)
+
+🚀 **What I Do:**
+- Build scalable full-stack web apps using MERN
+- Create clean, responsive UIs using React + Tailwind CSS
+- Develop REST APIs and handle backend logic using Express & Node
+- Work with MongoDB for data modeling and persistence
+
+---
+
+### 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap,html,css,javascript,git,github,vscode" />
 </p>
 
 ---
@@ -31,12 +33,20 @@
 
 ---
 
-### 🔗 Connect with Me
+### 📫 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/mubeenjaveed/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="mubeen linkedin" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
   <a href="mailto:mubeenjaveeddev@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
+  </a>
+  <a href="https://mubeen-dev.netlify.app/" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="website" height="30" width="30" />
   </a>
 </p>
+
+---
+
+> 🔥 I’m always open to collaboration and learning new things. Let's build something amazing together!
+
