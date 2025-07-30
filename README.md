@@ -36,17 +36,19 @@
 ### 📫 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/mubeenjaveed/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="mailto:mubeenjaveeddev@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" />
   </a>
   <a href="https://mubeen-dev.netlify.app/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="website" height="30" width="30" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="30" width="30" />
+  </a>
+  <a href="https://profile.indeed.com/?hl=en_PK&co=PK&from=gnav-jobseeker-profile--profile-one-frontend" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732251.png" alt="Indeed" height="30" width="30" />
   </a>
 </p>
 
 ---
 
 > 🔥 I’m always open to collaboration and learning new things. Let's build something amazing together!
-
