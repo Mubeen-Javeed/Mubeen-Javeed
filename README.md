@@ -35,7 +35,7 @@
 
 ### 📫 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/mubeenjaveed/" target="blank">
+  <a href="https://www.linkedin.com/in/mubeen-javeed/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="mailto:mubeenjaveeddev@gmail.com" target="blank">
